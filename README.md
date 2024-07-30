@@ -1,6 +1,6 @@
-<h3>Responsive Travel based Website for all devices.</h3>
+<h3>Responsive Travel based Website for all devices.🤟</h3>
 <br>
-<b>Home Page of Travelia (web).</b>
+<b>🏠 Home Page of Travelia (web).</b>
 <br>
 <h4>Visit site: https://ayisha-1626.github.io/Travelia_web/</h4> 
 <br>
